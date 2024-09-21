@@ -12,8 +12,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
   1. Email: mohamedchedi.benhadj@outlook.com
   2. Telegram: @ShadyXXIII
   3. Linkedin: https://www.linkedin.com/in/chedi-ben-hadj-mohamed/
-  <!--4. Website: https://sacred-danny.netlify.app -->
-- 😄 Pronouns: He/His
+  4. Website: https://chedibenhadj.vercel.app/
 - ⚡ Fun fact: I’ve probably written code in more places than I’ve taken vacations!
 
 ### Languages and Tools:
