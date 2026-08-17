@@ -1,45 +1,108 @@
-### Hey Everyone 👋
+# Hi, I'm Mohamed Chedi Ben Hadj 👋
 
-Hi. My name is Mohamed Chedi Ben Hadj from Tunisia. I'm a senior Blockchain/Software Engineer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity ), JavaScript/Typescript (React, Nextjs, Node, MongoDB, SQL), Python among others. Since I've graduated the university, I’ve joined several companies and dev teams to build web and dapps.
+### Senior Software Engineer | Blockchain & Web3 Developer
 
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Web3 development stack.
+I'm a Senior Software Engineer from Tunisia with a strong background in **Web Development, Backend Engineering, Blockchain, and Distributed Systems**.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
+I design and build scalable applications, APIs, and decentralized applications using modern technologies across the **Web2 and Web3 ecosystems**.
 
-- 🤔 I’m looking to help with building Dapps and web apps
-- 💬 Ask me about web and blockchain development
-- 📫 How to reach me:
-  1. Email: mohamedchedi.benhadj@outlook.com
-  2. Telegram: @ShadyXXIII
-  3. Linkedin: https://www.linkedin.com/in/chedi-ben-hadj-mohamed/
-  4. Website: https://chedibenhadj.vercel.app/
-- ⚡ Fun fact: I’ve probably written code in more places than I’ve taken vacations!
+My main areas of interest include:
 
-### Languages and Tools:
+- ⛓️ Blockchain & Web3
+- 💻 Full-Stack Web Development
+- 🏗️ Backend & Distributed Systems
+- ☁️ Cloud & DevOps
+- 🤖 AI & Machine Learning
+- 🔐 Authentication, Security & APIs
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+---
 
-#### Blockchain Development
+## 🛠️ Tech Stack
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+### Blockchain & Web3
 
-#### Web & Mobile Development
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+### Backend
 
-### Find me elsewhere 🌎
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+### Cloud, DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 What I Build
+
+I enjoy working on technically challenging products, particularly:
+
+- Decentralized applications and Web3 platforms
+- Blockchain-based applications and smart contracts
+- Scalable REST and GraphQL APIs
+- Microservices and distributed systems
+- Real-time applications and WebSockets
+- FinTech and cryptocurrency platforms
+- Enterprise web applications
+- AI-powered applications and automation
+
+---
+
+## 💼 Professional Focus
+
+My current focus is on building **production-ready software systems** that combine modern backend architecture, cloud infrastructure, and emerging technologies.
+
+I'm particularly interested in:
+
+**Blockchain → Distributed Systems → AI → Cloud Architecture**
+
+and how these technologies can be combined to build reliable and scalable products.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:mohamedchedi.benhadj@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chedi-ben-hadj-mohamed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://chedibenhadj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+### 💡 Always building. Always learning.
+
+*Turning ideas into scalable software and exploring what comes next in Web3, AI, and distributed systems.*
